@@ -1,6 +1,6 @@
 # corona-scraper
 
-this source code use for give data from [this](https://www.worldometers.info/coronavirus/)
+this source code use for give data from [https://www.worldometers.info/coronavirus/](https://www.worldometers.info/coronavirus/)
 
 ## how to use it ? 
 
