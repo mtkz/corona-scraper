@@ -13,3 +13,7 @@ and then
 ```sh
 python ./app.py
 ```
+
+after that figure save as corona.png
+
+hope to enjoy :)
